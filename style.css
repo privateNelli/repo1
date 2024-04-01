@@ -1,2 +1,41 @@
+form {
+    width:  70%;
+    margin: auto;
+}
 
+.box{
+    background-color: blueviolet;
+    width:50%;
+    height:380px;
+    margin: 60%;
+    border-radius: 25px;
+    margin-top:150px;
+    padding-top:50px;
+}
+
+label{
+    color:white;
+}
+
+small{
+    color:white;
+}
+
+.label{
+    color:white;
+}
+
+.box2{
+    background-color: blueviolet;
+    width: 60%;
+    height:400px;
+    margin:auto;
+    margin-top: 10px;
+    border-radius: 25px;
+}      
+
+col{
+    padding-top: 20px;
+    margin-left: 20px;
+}
 
